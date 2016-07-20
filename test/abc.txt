@@ -1,2 +1,7 @@
+<<<<<<< .mine
 asfasdf
 luong hoai phong
+=======
+weqewqewq
+
+>>>>>>> .theirs
